@@ -14,4 +14,4 @@
 
 - So much time spent on social media :warning:
 - Know every new tech stack :triangular_flag_on_post:
-- Apply every job you see :vertical_traffic_light:
+
